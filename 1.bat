@@ -1,0 +1,2 @@
+cls
+python Vision_Recorder.py

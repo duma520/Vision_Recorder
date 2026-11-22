@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --windowed  --icon=icon.ico --add-data "icon.ico;." Vision_Recorder.py
